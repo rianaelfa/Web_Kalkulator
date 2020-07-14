@@ -1,0 +1,18 @@
+@media all and (max-width: 1025px) {
+  .calculator{
+    text-align: center;
+    margin: 0 auto;
+    width: 75%;
+  }
+
+
+@media all and (max-width: 670px) {
+  .calculator{
+    text-align: center;
+    margin: 0 auto;
+    width: auto;
+  }
+  .calculator-screen{
+    font-size: 30px
+  }
+}
